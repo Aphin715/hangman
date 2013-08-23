@@ -1,0 +1,36 @@
+#there is an array of players on the mets team right now.... MUST BE A WORD
+
+#A random member of the team is chosen at random
+
+#There are a total of 8 incorrect guesses.
+
+
+
+#If a correct guess is made the user knows how much of the word remnains if not
+
+# If a leter is incorrectly guessed a guess is eliminated
+
+#If a guess is eliminated show how many incorrect guesses are left
+
+#Prompt the user for input
+
+#User can guess a single letter or a whole word.
+
+#when a player enters more than one letter it counts as guessing the word
+
+##if a guessed letter isin the word unveil the letter
+
+# if guessed letter is in the word do not decrease the incorrect guesses
+
+# if letter was already submitted do not decrease the chances remaining
+
+#If the guessed word matches the hidden word the user wins
+
+#if guessewd word does not match the the user loses
+
+#When chances reaches 0 the loser also loses
+
+
+each index
+
+and split
